@@ -8,9 +8,7 @@
 
 
 <div align="center">
-<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-sharp-logo.png"/></a>
-
-<a href="https://docs.microsoft.com/tr-tr/cpp/?view=msvc-160"><img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-plus-plus-logo.png"/></a>
+<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-sharp-logo.png"/></a><a href="https://docs.microsoft.com/tr-tr/cpp/?view=msvc-160"><img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-plus-plus-logo.png"/></a>
 
 <a href="https://www.electronjs.org"><img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-glyphs/124/26e07f/physics.png"/></a>
 
@@ -28,7 +26,7 @@
 
 <a href="https://reactjs.org"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/react-native.png"/></a>
 
-<a href="https://nextjs.org><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/nfc-n.png"/></a>
+<a href="https://nextjs.org"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/nfc-n.png"/></a>
 
 <a href="https://nodejs.org/en/"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/windows/128/26e07f/node-js.png"/></a>
 
