@@ -14,7 +14,7 @@ img{
 
 
 <div align="center">
-<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/"><img     style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-sharp-logo.png"/></a>
+<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/"><img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-sharp-logo.png"/></a>
 
 <img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/c-plus-plus-logo.png"/>
 
