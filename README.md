@@ -24,7 +24,7 @@ img{
 
 <img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/html-5--v1.png"/>
 
-<img   width="32;" height="20"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-glyphs/150/26e07f/css3.png" style="width:32px;height:32px;"/>
+<img   width="32;" height="32"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-glyphs/150/26e07f/css3.png" style="width:32px;height:32px;"/>
 
 <img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-glyphs/124/26e07f/xbox-b.png"/>
 
@@ -35,6 +35,8 @@ img{
 <img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/react-native.png"/>
 
 <img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/ios-filled/124/26e07f/nfc-n.png"/>
+
+<img  width="30;" height="30"   style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/windows/128/26e07f/node-js.png"/>
 
 <br>
 <img   width="30;" height="30"  style="width:30px;height:30px;margin-left:25px;" src="https://img.icons8.com/color/124/26e07f/visual-studio-code-insides.png"/>
