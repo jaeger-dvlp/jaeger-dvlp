@@ -1,10 +1,4 @@
-<style>
-img{
-    width:30px;
-    height:30px;
-    margin-left:25px;
-}
-</style>
+
 ### <center><h1 align="center">Hey, It's Jaeger / Kaya. 👋🏻</h1></center>
 <div align="center">18 Y/O<br> <strong>Web & Desktop Software Dev.</strong></div>
 <h3 align="center">Contact;</h3>
