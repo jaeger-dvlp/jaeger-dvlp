@@ -1,2 +1,2 @@
-### <center><h1>Hey, It's Jaeger / Kaya. 👋🏻</h1></center>
+### <center><h1 align="center">Hey, It's Jaeger / Kaya. 👋🏻</h1></center>
 
