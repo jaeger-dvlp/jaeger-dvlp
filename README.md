@@ -1,8 +1,10 @@
+### <center><h1 align="left" ><hr color="green">
 ```diff
-
-> ### <center><h1 align="left" ><hr color="green"> > hey, its jaeger/kaya.</h1></center>
-
+ + hey, its 
 ```
+jaeger/kaya.</h1></center>
+
+
 
 <div align="center">18 Y/O<br> <strong>Web & Desktop Software Dev.</strong></div>
 <h3 align="center">Contact;</h3>
